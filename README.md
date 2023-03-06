@@ -29,8 +29,6 @@ The Golden Square refers to four software engineering practices:
   There are a number of reasons people do this. One key reason to test-drive is because it structures your programming approach and reduces your mental load.
 </details>
 
-<br>
-
 ### Object-Oriented Design
 <details><summary>More Info</summary>
   Object-oriented design is a way of structuring code using objects and classes. The software is created by creating a system of classes that interact to perform the job of the software.
@@ -42,8 +40,6 @@ The Golden Square refers to four software engineering practices:
   There are a number of approaches to structuring programs. OOD is the most popular.
 </details>
 
-<br>
-
 ### Debugging
 <details><summary>More Info</summary>
   Debugging is the name for a collection of different approaches for dealing with the situation when the code does something you don't intend it to for reasons you don't understand.
@@ -51,16 +47,12 @@ The Golden Square refers to four software engineering practices:
   It is important because code is complex and people rarely get it totally right. Most of the ways they get it wrong are subtle and hard to figure out. Good debugging skills help an engineer discover the source of defects ('bugs') and thereby correct them.
 </details>
 
-<br>
-
 ### Pairing
 <details><summary>More Info</summary>
   Pair programming, or pairing, is two programmers working on the same thing at the same time. Some teams do pairing 100% of the time, most do it some of the time, and some never do it.
 
   It is useful because it can apply two minds and two sets of knowledge to the same problem, and because it spreads knowledge around a team. As an engineer, knowledge of the system is a very valuable thing, and so pairing makes the whole team more effective.
 </details>
-
-<br>
 
 ## Phase One
 <details><summary>Testing methods with equality</summary>
