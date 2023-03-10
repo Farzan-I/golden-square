@@ -83,6 +83,8 @@ The Golden Square refers to four software engineering practices:
 
 ## Phase Two
 <details><summary>Test drive a single method program</summary>
+
   1. make_snippet.rb / make_snippet_spec.rb
   2. count_words.rb / count_words_spec.rb
+  
 </details>
