@@ -88,3 +88,9 @@ The Golden Square refers to four software engineering practices:
   2. count_words.rb / count_words_spec.rb
   
 </details>
+<details><summary>Design a single method program</summary>
+
+  1. [recipe.md](recipe.md) / 
+  2. 
+
+</details>
