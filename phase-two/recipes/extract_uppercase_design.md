@@ -8,7 +8,7 @@ I want to see a list of words that are uppercased
 ## 2. Design the Method Signature
 The name of the method, its parameters, return value, and side effects.
 
-```
+```ruby
 # `extract_uppercase` extracts uppercase words from a string
 uppercase_words = extract_uppercase(mixed_words)
 
@@ -21,7 +21,7 @@ uppercase_words: a list of strings (e.g. ["WORLD"])
 ## 3. Create Examples as Tests
 A list of examples of what the method will take and return.
 
-``` 
+``` ruby
 extract_uppercase("hello WORLD") => ["WORLD"]
 extract_uppercase("HELLO WORLD") => ["HELLO", "WORLD"]
 extract_uppercase("hello world") => []

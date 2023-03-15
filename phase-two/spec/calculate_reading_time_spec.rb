@@ -41,5 +41,5 @@ RSpec.describe 'calculate_reading_time method' do
       result = calculate_reading_time("one " * 5000)
       expect(result).to eq 25
     end
-  end
+  end 
 end
