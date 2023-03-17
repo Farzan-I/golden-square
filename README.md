@@ -93,5 +93,6 @@ The Golden Square refers to four software engineering practices:
   1. [extract_uppercase_design.md](phase-two/recipes/extract_uppercase_design.md) / extract_uppercase.rb / extract_uppercase_spec.rb
   2. [reading_time_design.md](phase-two/recipes/reading_time_design.md) / calculate_reading_time.rb / calculate_reading_time_spec.rb
   3. [grammar_design.md](phase-two/recipes/grammar_design.md) / check_grammar.rb / check_grammar_spec.rb
+  4. [todo_checker_design.md](phase-two/recipes/todo_checker_design.md) / todo_checker.rb / todo_checker_spec.rb
 
 </details>
