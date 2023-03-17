@@ -27,7 +27,7 @@ todo_checker("") => fail "Has to provide a string with one character or more"
 todo_checker("Hello, I am Farzan") => false
 
 # 3
-todo_checker("Hello, I am Farzan. I have a todo list") => false
+todo_checker("Hello, I am Farzan. I have a TODO list") => false
 
 # 4
 todo_checker("Hello, I am Farzan. I have a #todo list") => false
