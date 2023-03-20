@@ -96,3 +96,9 @@ The Golden Square refers to four software engineering practices:
   4. [todo_checker_design.md](phase-two/recipes/todo_checker_design.md) / todo_checker.rb / todo_checker_spec.rb
 
 </details>
+<details><summary>Intermezzo: Debugging 1</summary>
+
+  1. debug_exe_one.rb
+  2. 
+
+</details>
