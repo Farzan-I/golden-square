@@ -119,5 +119,6 @@ Our most powerful tool for Discovery Debugging is 'getting visibility' — using
 
   1. debug_exe_one.rb
   2. debug_exe_two.rb
+  3. debug_exe_three.rb
 
 </details>
