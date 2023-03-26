@@ -116,9 +116,13 @@ In Discovery Debugging, the code is an artefact to be studied.
 Our most powerful tool for Discovery Debugging is 'getting visibility' — using p to print out values in the program.
 <p>
 </details>
-
   1. debug_exe_one.rb
   2. debug_exe_two.rb
   3. debug_exe_three.rb
+</details>
+<details><summary>Test drive a class</summary>
+
+  1. gratitudes.rb / gratitudes_spec.rb
+  <!-- 2.  -->
 
 </details>
