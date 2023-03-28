@@ -123,6 +123,7 @@ Our most powerful tool for Discovery Debugging is 'getting visibility' — using
 <details><summary>Test drive a class</summary>
 
   1. gratitudes.rb / gratitudes_spec.rb
-  <!-- 2.  -->
+  2. diary_entry.rb / diary_entry_spec.rb
+
 
 </details>
