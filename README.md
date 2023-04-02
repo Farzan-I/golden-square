@@ -124,6 +124,6 @@ Our most powerful tool for Discovery Debugging is 'getting visibility' — using
 
   1. gratitudes.rb / gratitudes_spec.rb
   2. diary_entry.rb / diary_entry_spec.rb
-
+  3. grammar_stats.rb / grammar_stats_spec.rb
 
 </details>
