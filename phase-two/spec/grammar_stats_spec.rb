@@ -21,6 +21,7 @@ RSpec.describe GrammarStats do
   context "#percentage_good method" do
     it "returns the checked string as an integer" do
       grammar_stats = GrammarStats.new
+      grammar_stats.check("Hello!")
       expect(grammar_stats.percentage_good).to eq 100
     end
   end
